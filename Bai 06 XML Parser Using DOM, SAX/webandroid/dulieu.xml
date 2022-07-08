@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<menu> 
+	<item> 
+		<id>1</id> 
+		<name>samsung galaxy tab 7 plus</name> 
+		<cost>7000000</cost> 
+		<description>hang sach tay full box</description> 
+	</item> 
+	<item> 
+		<id>2</id> 
+		<name>samsung galaxy i</name> 
+		<cost>3000000</cost> 
+		<description>hang cong ty</description> 
+	</item> 
+	<item> 
+		<id>3</id> 
+		<name>nokia lumina 900</name> 
+		<cost>9000000</cost> 
+		<description>hang mac, khong ai mua</description> 
+	</item> 
+	<item> 
+		<id>4</id> 
+		<name>iphon 4</name> 
+		<cost>3000000</cost> 
+		<description>hang cu gia re</description> 
+	</item> 
+	<item> 
+		<id>5</id> 
+		<name>iphon 5</name> 
+		<cost>500000</cost> 
+		<description>hang tau, co en ten coi tidi</description> 
+	</item> 
+</menu>

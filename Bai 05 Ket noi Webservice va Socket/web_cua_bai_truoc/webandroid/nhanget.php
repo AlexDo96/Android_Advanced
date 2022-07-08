@@ -1,0 +1,1 @@
+<? echo 'chao ban ' . $_GET["ten"] . " mung ban " . $_GET["tuoi"] ?>

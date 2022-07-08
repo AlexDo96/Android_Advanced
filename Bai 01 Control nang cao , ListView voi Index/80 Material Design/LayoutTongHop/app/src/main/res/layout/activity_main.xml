@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="luffy.khoa.anh.layouttonghop.MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        style="@style/TechniqueToolbar"
+        />
+
+    <Button
+        android:id="@+id/bt_1"
+        android:layout_below="@+id/toolbar"
+        android:text="loai 1"
+        android:onClick="xuly_onClick"
+        style="@style/TechniqueButton"/>
+    <Button
+        android:id="@+id/bt_2"
+        android:layout_below="@+id/bt_1"
+        android:text="loai 2"
+        android:onClick="xuly_onClick"
+        style="@style/TechniqueButton"/>
+    <Button
+        android:id="@+id/bt_3"
+        android:layout_below="@+id/bt_2"
+        android:text="loai 3"
+        android:onClick="xuly_onClick"
+        style="@style/TechniqueButton"/>
+    <Button
+        android:id="@+id/bt_4"
+        android:layout_below="@+id/bt_3"
+        android:text="loai 4"
+        android:onClick="xuly_onClick"
+        style="@style/TechniqueButton"/>
+    <Button
+        android:id="@+id/bt_5"
+        android:layout_below="@+id/bt_4"
+        android:text="loai 5"
+        android:onClick="xuly_onClick"
+        style="@style/TechniqueButton"/>
+    <Button
+        android:id="@+id/bt_6"
+        android:layout_below="@+id/bt_5"
+        android:text="loai 6"
+        android:onClick="xuly_onClick"
+        style="@style/TechniqueButton"/>
+</RelativeLayout>

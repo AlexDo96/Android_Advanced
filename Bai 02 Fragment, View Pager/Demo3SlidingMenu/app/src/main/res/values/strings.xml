@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Demo3SlidingMenu</string>
+    <string-array name="thanhpho">
+        <item>Sai Gon</item>
+        <item>Hue</item>
+        <item>Da Nang</item>
+        <item>Da Lat</item>
+        <item>Nha Trang</item>
+    </string-array>
+
+    <string name="drawer_open">Mo menu</string>
+    <string name="drawer_close">Dong menu</string>
+</resources>

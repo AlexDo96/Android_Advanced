@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LayoutTongHop</string>
+    <string-array name="days_names">
+        <item>Thu Hai</item>
+        <item>Thu Ba</item>
+        <item>Thu Tu</item>
+        <item>Thu Nam</item>
+        <item>Thu Sau</item>
+        <item>Thu Bay</item>
+        <item>Chu Nhat</item>
+    </string-array>
+</resources>

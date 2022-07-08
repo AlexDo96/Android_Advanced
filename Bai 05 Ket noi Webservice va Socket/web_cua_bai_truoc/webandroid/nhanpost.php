@@ -1,0 +1,1 @@
+<? echo ' kieu POST . chao ban ' . $_POST["ten"] . " mung ban " . $_POST["tuoi"] ?>
